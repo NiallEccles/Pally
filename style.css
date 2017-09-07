@@ -3,6 +3,28 @@ body{
 	font-family: 'Poppins', sans-serif;
 }
 
+header{
+
+}
+
+header>div{
+	width:100%;
+	text-align: center;
+	margin-bottom: 2em;
+}
+
+header>div>img{
+	width:15em;
+	margin: auto;
+	display: block;
+}
+
+header>div>span{
+	position: relative;
+	font-size: 1em;
+}
+
+
 .wrapper{
 	display: flex;
 	width: 100%;
